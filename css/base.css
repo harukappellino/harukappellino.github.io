@@ -1,0 +1,28 @@
+@charset "UTF-8";
+body{
+    font-size: 17px;
+}
+
+h1{
+    background-color:aquamarine
+}
+
+.text-center{
+    text-align: center;
+}
+
+#menubar > ul{
+    list-style: none;
+    padding-left: 7px;
+}
+
+#menubar > ul > li{
+    display: list-item;
+    width: 25%;
+    margin: 10px;
+    padding: 5px;
+    border: 1px solid #7fffd4;
+    border-radius: 2px;
+    background: linear-gradient(#FFFFFF, #98fb98);
+}   
+
